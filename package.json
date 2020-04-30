@@ -7,7 +7,7 @@
     "bootstrap": "4.3.1",
     "chart.js": "2.8.0",
     "core-js": "3.0.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "moment": "2.24.0",
     "qrcode.react": "0.9.3",
     "rc-progress": "2.3.0",
